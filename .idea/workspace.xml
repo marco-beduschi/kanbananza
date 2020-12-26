@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65cfbe5e-6967-4395-b1cf-8b2f2bf5ab59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/normalized-state.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/list-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/default-state.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/default-state.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +78,7 @@
       <workItem from="1607980510598" duration="986000" />
       <workItem from="1607981518486" duration="306000" />
       <workItem from="1608035178760" duration="875000" />
-      <workItem from="1609008171309" duration="2816000" />
+      <workItem from="1609008171309" duration="2987000" />
     </task>
     <servers />
   </component>
